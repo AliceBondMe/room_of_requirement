@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/room_of_requirement/static/css/main.57041e03.css",
+    "main.js": "/room_of_requirement/static/js/main.fb2e9813.js",
+    "static/media/Philosopher-Regular.ttf": "/room_of_requirement/static/media/Philosopher-Regular.93c7d8b5efe3f355f3ca.ttf",
+    "static/media/Philosopher-Bold.ttf": "/room_of_requirement/static/media/Philosopher-Bold.7e98a8743136a6828ccf.ttf",
+    "static/media/HarryPotter.ttf": "/room_of_requirement/static/media/HarryPotter.a65869c0c1a4b3d4fcfc.ttf",
+    "index.html": "/room_of_requirement/index.html",
+    "main.57041e03.css.map": "/room_of_requirement/static/css/main.57041e03.css.map",
+    "main.fb2e9813.js.map": "/room_of_requirement/static/js/main.fb2e9813.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57041e03.css",
+    "static/js/main.fb2e9813.js"
+  ]
+}
